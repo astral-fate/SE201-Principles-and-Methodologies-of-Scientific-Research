@@ -3,13 +3,13 @@
 
 ## Essential References
 
-1. **Engineering Research Methodology** (Primary Text 1)
+1. [**Engineering Research Methodology**](https://www.researchgate.net/publication/259183120_Engineering_Research_Methodology_A_Computer_Science_and_Engineering_and_Information_and_Communication_Technologies_Perspective) (Primary Text 1)
    - Author: Krishnan Nallaperumal
    - Edition: 1st Edition
    - Publisher: PHI Learning, 2013
    - Focus: Computer Science, Engineering, and Information/Communication Technologies
 
-2. **Writing for Computer Science** (Primary Text 2)
+2. [**Writing for Computer Science** ](https://faculty.kashanu.ac.ir/file/download/course/1677017074-justin-zobel-auth.-writing-for-computer-science-springer-verlag-london-2014-.pdf)(Primary Text 2)
    - Author: Justin Zobel
    - Edition: 3rd Edition
    - Publisher: Springer, 2014
