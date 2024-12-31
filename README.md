@@ -38,8 +38,8 @@
 |---------|----------------|
 | [Chapter 1: BASIC RESEARCH METHODOLOGY](https://github.com/astral-fate/SE201-Principles-and-Methodologies-of-Scientific-Research/tree/main/Lecture%201%3A%20Basic%20research%20methodology) | Engineering Research Methodology (Nallaperumal) |
 | Chapter 2: OVERVIEW OF THE THEORY OF SCIENCE AND HISTORY OF SCIENTIFIC AND ENGINEERING RESEARCH | Engineering Research Methodology (Nallaperumal) |
-| [Chapter 2: Getting Started](https://github.com/astral-fate/SE201-Principles-and-Methodologies-of-Scientific-Research/tree/main/Lecture%202%3A%20Reading%20and%20Reviewing) | Writing for Computer Science (Zobel) |
-| Chapter 3: Reading and Reviewing | Writing for Computer Science (Zobel) |
+| Chapter 2: Getting Started | Writing for Computer Science (Zobel) |
+| [Chapter 3: Reading and Reviewing](https://github.com/astral-fate/SE201-Principles-and-Methodologies-of-Scientific-Research/tree/main/Lecture%202%3A%20Reading%20and%20Reviewing) | Writing for Computer Science (Zobel) |
 | Chapter 4: Hypotheses, Questions, and Evidence | Writing for Computer Science (Zobel) |
 | Chapter 5: RESEARCH METHODS FOR ENGINEERING RESEARCH | Engineering Research Methodology (Nallaperumal) |
 | Chapter 5: Writing a Paper | Writing for Computer Science (Zobel) |
