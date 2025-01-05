@@ -36,7 +36,7 @@
 
 | Chapter | Reference Book | Interactive Quizes 
 |---------|----------------| ---- |
-| [Chapter 1: BASIC RESEARCH METHODOLOGY](https://github.com/astral-fate/SE201-Principles-and-Methodologies-of-Scientific-Research/tree/main/Lecture%201%3A%20Basic%20research%20methodology) | Engineering Research Methodology (Nallaperumal) | [1. Quiz 1](https://claude.site/artifacts/5ca3aae1-07d6-436f-805a-5e94b858ca72) <br> [2. Essay qustions detailed](https://claude.site/artifacts/487e8e8a-8f7b-44be-b615-430b733610c0) [3. Essay questions brief](https://claude.site/artifacts/72299edf-3576-4cee-843a-f38464be508b)
+| [Chapter 1: BASIC RESEARCH METHODOLOGY](https://github.com/astral-fate/SE201-Principles-and-Methodologies-of-Scientific-Research/tree/main/Lecture%201%3A%20Basic%20research%20methodology) | Engineering Research Methodology (Nallaperumal) | [1. Quiz 1](https://claude.site/artifacts/5ca3aae1-07d6-436f-805a-5e94b858ca72) <br> [2. Essay qustions detailed](https://claude.site/artifacts/487e8e8a-8f7b-44be-b615-430b733610c0) <br> [3. Essay questions brief](https://claude.site/artifacts/72299edf-3576-4cee-843a-f38464be508b)
 | Chapter 2: OVERVIEW OF THE THEORY OF SCIENCE AND HISTORY OF SCIENTIFIC AND ENGINEERING RESEARCH | Engineering Research Methodology (Nallaperumal) |
 | Chapter 2: Getting Started | Writing for Computer Science (Zobel) |
 | [Chapter 3: Reading and Reviewing](https://github.com/astral-fate/SE201-Principles-and-Methodologies-of-Scientific-Research/tree/main/Lecture%202%3A%20Reading%20and%20Reviewing) | Writing for Computer Science (Zobel) |
